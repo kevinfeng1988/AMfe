@@ -1,7 +1,11 @@
 # AMfe
 Nonlinear Finite Element Code for structural applications with simplicity in mind.
 
-First release
--------------
+EuroScipy 2017
+--------------
 
-We are working on the first release of AMfe and will release the first version in August 2017 when full documentation has been finished.
+Current status of development can be downloaded from the github-developer branch.
+
+We are working hard on the first release which will be published very soon (September 2017)
+
+
